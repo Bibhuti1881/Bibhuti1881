@@ -1,11 +1,39 @@
-#Hi me bibhuti 👋
+<h1 align="center">Hi 👋, I'm Bibhuti Adhikari</h1>
+<h3 align="center">Python Web Scraper & Frontend Developer from Nepal 🇳🇵</h3>
 
-<!--
-**Bibhuti1881/Bibhuti1881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on [Books E-Commerce Scraper](https://github.com/Bibhuti1881/books-scraper)
+- 🌐 All my projects are at [github.com/Bibhuti1881](https://github.com/Bibhuti1881)
+- 💬 Ask me about **Python, Web Scraping, Playwright, BeautifulSoup, HTML, CSS, JavaScript**
+- 📫 Reach me at **bibhutiadhikari788@gmail.com**
+- 🌍 Portfolio: [bibhutiportfolio.vercel.app](https://bibhutiportfolio.vercel.app)
+- 💼 Hire me on [Fiverr](https://fiverr.com/bibhuti)
 
-- 🔭 I’m currently studying kalinga institude of industrial technolog..
-- 🌱 I’m currently learning c++.....
+<br/>
 
--->
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bibhuti-adhikari-796766264)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibhutiadhikari788@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bibhuti1881)
+
+<br/>
+
+### 🛠️ Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+<br/>
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bibhuti1881&show_icons=true&theme=dark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibhuti1881&layout=compact&theme=dark" />
+</p>
