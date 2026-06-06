@@ -8,7 +8,7 @@
 - 💬 Ask me about **Python, Web Scraping, Playwright, BeautifulSoup, HTML, CSS, JavaScript**
 - 📫 Reach me at **bibhutiadhikari788@gmail.com**
 - 🌍 Portfolio: [bibhutiportfolio.vercel.app](https://bibhutiportfolio.vercel.app)
-- 💼 Hire me on [Fiverr](https://fiverr.com/bibhuti)
+- 💼 Hire me on [Fiverr](https://www.fiverr.com/bibhuti981)
 
 <br/>
 
