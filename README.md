@@ -41,5 +41,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bibhuti1881&color=brightgreen&style=for-the-badge" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibhuti1881&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="45%" />
 </p>
